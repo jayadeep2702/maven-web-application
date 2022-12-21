@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.200.183:8081/repository/maven-release/</url>
+	      <url>http://13.127.200.183:8081/repository/jayadeep-release1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
