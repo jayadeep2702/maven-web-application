@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.207.190:8081/repository/vikas-release/</url>
+	      <url>http://65.2.190.72:8081/repository/ganesh1-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.207.190:8081/repository/vikas-snapshot/</url>
+	      <url>http://65.2.190.72:8081/repository/ganesh1-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
